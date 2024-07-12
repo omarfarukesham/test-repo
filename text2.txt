@@ -1,0 +1,1 @@
+hello everyone this writing after add git on my text2.txt
